@@ -1,0 +1,52 @@
+Project: Courier Management System using PHP/MySQLi
+
+How to run the Courier Management System Project
+
+1. First of all, Download the zip file.
+
+2. Extract the zip file. There will be a folder named Courier Management System. Copy that Courier Management System folder.
+
+3. Go to your xampp folder. Then go to the htdocs folder. Now paste your copied folder inside htdocs folder.( xampp/htdocs).
+
+4. Open the xampp control panel and start Apache and MySQL server. Now Open PHPMyAdmin (Open a browser and go to URL “http://localhost/phpmyadmin/”).
+
+5. Click on the databases tab and Create a database naming “courier_ms.”
+
+6. Import the “courier_ms.sql” file. Click on browse file and select “courier_ms.sql” file, which is inside the “database” folder, and after import, click go. (given inside the Courier Management System folder).
+
+7. Open a browser and go to URL “http://localhost/Courier Management System/" .  
+
+8. For admin panel "http://localhost/Courier Management System/admin "(admin panel)
+
+Credential for admin panel :
+url: http://localhost/Courier Management System/admin
+username : admin@admin.com
+Password : admin123
+
+Credential for User :
+url: http://localhost/Courier Management System/
+username : boateng@gamil.com
+Password : boateng
+For user Reference / Tracking number : 983186540795
+
+
+Features
+
+Admin Side
+ Login Page
+ Dashboard
+ Customer List
+ User Parcel Request List
+ Manage Parcel( Add Parcel, Delete Parcel, Edit Parcel, Update Status of The parcel)
+ Track Parcel
+ Datewise Reports
+ User Feedbacks
+
+
+User Side
+ Log in
+ Sign Up
+ Send Parcel Request
+ Track Parcel
+ About Us
+ Contact Us
